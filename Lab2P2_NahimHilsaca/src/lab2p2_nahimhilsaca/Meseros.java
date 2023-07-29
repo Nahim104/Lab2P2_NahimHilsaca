@@ -84,7 +84,7 @@ public class Meseros {
   
     public String toString(){
     
-    return "Nombre+"+Nombre+"\n"+"Edad:"+Edad+"\n"+"Turno:"+turno+"\n"+"Propina:"+propina+"\n"+"Sueldo:"+sueldo+"\n";
+    return "Nombre:"+Nombre+"\n"+"Edad:"+Edad+"\n"+"Turno:"+turno+"\n"+"Propina:"+propina+"\n"+"Sueldo:"+sueldo+"\n";
     
     }//Metodo Administracion
  
